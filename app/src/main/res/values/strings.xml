@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+
+    <string name="Judul">
+        Synthesis
+    </string>
+
+    <string name="content">
+            Polusi udara disebabkan oleh aktivitas manusia itu sendiri seperti industri, kendaraan dan pembakaran bahan bakar fosil, yang dapat merugikan kesehatan pernapasan masyarakat.
+        Untuk menjaga kesehatan masyarakat Indonesia, kita perlu bekerja sama dengan sumber
+        informasi kualitas udara terpercaya dan real-time. Tujuannya adalah mengembangkan teknologi
+        pemantauan udara yang akurat, serta memberikan informasi dampak buruk polusi udara
+    </string>
+
+
+</resources>
